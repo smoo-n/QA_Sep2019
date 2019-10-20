@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google", "Google\Google.csproj", "{5A64EA40-982C-4B56-B5E1-3832598931A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoReg", "AutoReg\AutoReg.csproj", "{1423C008-58C5-4687-9279-CFE4D0608DBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QAAutomation", "QAAutomation\QAAutomation.csproj", "{1C70778C-7D2A-4572-83FC-D8A03F417872}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A64EA40-982C-4B56-B5E1-3832598931A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A64EA40-982C-4B56-B5E1-3832598931A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A64EA40-982C-4B56-B5E1-3832598931A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A64EA40-982C-4B56-B5E1-3832598931A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1423C008-58C5-4687-9279-CFE4D0608DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1423C008-58C5-4687-9279-CFE4D0608DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1423C008-58C5-4687-9279-CFE4D0608DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1423C008-58C5-4687-9279-CFE4D0608DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C70778C-7D2A-4572-83FC-D8A03F417872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C70778C-7D2A-4572-83FC-D8A03F417872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C70778C-7D2A-4572-83FC-D8A03F417872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C70778C-7D2A-4572-83FC-D8A03F417872}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0C75095-7FC0-4C3F-BCF3-B7E822134F9A}
+	EndGlobalSection
+EndGlobal
